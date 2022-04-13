@@ -2,7 +2,7 @@
 
 This project comprises of 4 main parts:
 1. POS PD(Project Domain)
-2. POS DM(Data Class)
+2. POS DM(Data Management Class)
 3. POS Test(Test Class)
 4. POS UI(User Interface)
 
